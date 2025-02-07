@@ -1,11 +1,3 @@
-### **GitHub About Section (Short Paragraph)**
-
-Taskly Shared Library provides reusable utilities for authentication, authorization, request validation, and database operations across Taskly's microservices, ensuring consistency and maintainability.
-
----
-
-### **README for Taskly Shared Library**
-
 # **Taskly Shared Library**
 
 ## **Overview**
